@@ -1,0 +1,133 @@
+Well,Depth upper (mMD),Depth lower (mMD),"CSIRO/JOGMEC
+Lithology Class",Formation,(Lith 1) - cuttings,"% Lithology 
+(Lith 1)",(Lith 2) - cuttings,"% Lithology 
+(Lith 2)",(Lith 3) - cuttings,"% Lithology 
+(Lith 3)",JOGMEC_Class,Lith1_C,ImageFolder,avg_depth
+Ichthys-2A/ST1,2550.0,2560.0,MUDST,Jamieson,Clayst (calcareous),100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_2550-2560,2555.0
+Ichthys-2A/ST1,2650.0,2660.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_2650-2660,2655.0
+Ichthys-2A/ST1,2740.0,2760.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_2740-2760,2750.0
+Ichthys-2A/ST1,2840.0,2860.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_2840-2860,2850.0
+Ichthys-2A/ST1,2940.0,2960.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_2940-2960,2950.0
+Ichthys-2A/ST1,3050.0,3060.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_3050-3060,3055.0
+Ichthys-2A/ST1,3150.0,3160.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_3150-3160,3155.0
+Ichthys-2A/ST1,3250.0,3260.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_3250-3260,3255.0
+Ichthys-2A/ST1,3350.0,3360.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_3350-3360,3355.0
+Ichthys-2A/ST1,3450.0,3460.0,MUDST,Echuca (Upper),Clayst,95.0,Siltstone (arg.),5.0,,,MUDST,MUDST,Ichthys-2A-ST1_3450-3460,3455.0
+Ichthys-2A/ST1,3550.0,3560.0,MUDST,Echuca (Upper),Clayst,95.0,Siltstone (arg.),5.0,,,MUDST,MUDST,Ichthys-2A-ST1_3550-3560,3555.0
+Ichthys-2A/ST1,3820.0,3830.0,MUDST,Echuca (Lower),Clayst (silty),95.0,Siltstone (arg.),5.0,,,MUDST,MUDST,Ichthys-2A-ST1_3820-3830,3825.0
+Ichthys-2A/ST1,3900.0,3910.0,MUDST,Echuca (Lower),Clayst (silty),100.0,,,,,MUDST,MUDST,Ichthys-2A-ST1_3900-3910,3905.0
+Ichthys-2A/ST2,4070.0,4075.0,SST,Brewster (Upper),Sandstone,95.0,Clayst,5.0,CEMENT,tr,SST,SST,Ichthys-2A-ST2_4070-4075,4072.5
+Ichthys-2A/ST2,4080.0,4085.0,MUDST,Brewster (Lower),Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST2_4080-4085,4082.5
+Ichthys-2A/ST2,4105.0,4110.0,SST,Brewster (Lower),Sandstone,95.0,Clayst,5.0,,,SST,SST,Ichthys-2A-ST2_4105-4110,4107.5
+Ichthys-2A/ST2,4110.0,4115.0,SST,Brewster (Lower),Sandstone,90.0,Clayst,10.0,,,SST,SST,Ichthys-2A-ST2_4110-4115,4112.5
+Ichthys-2A/ST2,4120.0,4125.0,SST,Brewster (Lower),Sandstone,90.0,Siltstone (arg.),5.0,Clayst,5,SST,SST,Ichthys-2A-ST2_4120-4125,4122.5
+Ichthys-2A/ST2,4125.0,4130.0,SST,Brewster (Lower),Sandstone,90.0,Siltstone (arg.),5.0,Clayst,5,SST,SST,Ichthys-2A-ST2_4125-4130,4127.5
+Ichthys-2A/ST2,4180.0,4185.0,MUDST,Brewster (Lower),Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST2_4180-4185,4182.5
+Ichthys-2A/ST2,4250.0,4255.0,MUDST,Lower Vulcan,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST2_4250-4255,4252.5
+Ichthys-2A/ST2,4320.0,4325.0,MUDST,Lower Vulcan,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST2_4320-4325,4322.5
+Ichthys-2A/ST2,4375.0,4380.0,MUDST,Lower Vulcan,Clayst,100.0,,,,,MUDST,MUDST,Ichthys-2A-ST2_4375-4380,4377.5
+Ichthys-2A/ST2,4435.0,4440.0,MUDST,Lower Vulcan,Clayst,95.0,Sandstone,5.0,,,MUDST,MUDST,Ichthys-2A-ST2_4435-4440,4437.5
+Ichthys-2A/ST2,4505.0,4510.0,SST,Plover,Sandstone,95.0,Clayst,5.0,,,SST,SST,Ichthys-2A-ST2_4505-4510,4507.5
+Ichthys-2A/ST2,4610.0,4615.0,VOLC,Plover,Volcanic (altered),90.0,Sandstone,5.0,Clayst,5,VOLC,VOLC,Ichthys-2A-ST2_4610-4615,4612.5
+Ichthys-2A/ST2,4650.0,4655.0,SST,Plover,Sandstone,90.0,Clayst,10.0,,,SST,SST,Ichthys-2A-ST2_4650-4655,4652.5
+Ichthys-2A/ST2,4665.0,4670.0,SST,Plover,Sandstone,90.0,Clayst,10.0,,,SST,SST,Ichthys-2A-ST2_4665-4670,4667.5
+Poseidon-1,2310.0,2320.0,Carbonate,Oliver,Calcilutite,90.0,Calcarenite,10.0,,,Carbonate,Carbonate,Poseidon1_2310-2320,2315.0
+Poseidon-1,2580.0,2590.0,Carbonate,Prion,Calcilutite,90.0,Calcarenite,10.0,,,Carbonate,Carbonate,Poseidon1_2580-2590,2585.0
+Poseidon-1,2660.0,2670.0,Carbonate,Prion,Calcilutite,90.0,Calcarenite,10.0,,,Carbonate,Carbonate,Poseidon1_2660-2670,2665.0
+Poseidon-1,2820.0,2830.0,Carbonate,Grebe,Calcilutite,90.0,Calcarenite,10.0,,,Carbonate,Carbonate,Poseidon1_2820-2830,2825.0
+Poseidon-1,2910.0,2920.0,Carbonate,Grebe,Calcilutite,90.0,Calcarenite,10.0,,,Carbonate,Carbonate,Poseidon1_2910-2920,2915.0
+Poseidon-1,2990.0,3000.0,Carbonate,Grebe,Calcilutite,95.0,Calcarenite,5.0,,,Carbonate,Carbonate,Poseidon1_2990-3000,2995.0
+Poseidon-1,3080.0,3090.0,Carbonate,Grebe,Calcilutite,95.0,Calcarenite,5.0,,,Carbonate,Carbonate,Poseidon1_3080-3090,3085.0
+Poseidon-1,3170.0,3180.0,Carbonate,Grebe,Calcilutite,95.0,Calcarenite,5.0,,,Carbonate,Carbonate,Poseidon1_3170-3180,3175.0
+Poseidon-1,3220.0,3230.0,Carbonate,Grebe,Calcilutite,90.0,Calcarenite,10.0,,,Carbonate,Carbonate,Poseidon1_3220-3230,3225.0
+Poseidon-1,3250.0,3260.0,Carbonate,Grebe,Calcilutite (arg.),90.0,Calcarenite,10.0,,,Carbonate,Carbonate,Poseidon1_3250-3260,3255.0
+Poseidon-1,3290.0,3300.0,Carbonate,Grebe,Marl,95.0,Calcarenite,5.0,,,Carbonate,Carbonate,Poseidon1_3290-3300,3295.0
+Poseidon-1,3360.0,3370.0,Carbonate,Grebe,Marl,100.0,,,,,Carbonate,Carbonate,Poseidon1_3360-3370,3365.0
+Poseidon-1,3400.0,3410.0,Carbonate,Grebe,Marl,95.0,Calcilutite (arg.),5.0,,,Carbonate,Carbonate,Poseidon1_3400-3410,3405.0
+Poseidon-1,3490.0,3500.0,Carbonate,Jamieson,Calcilutite,100.0,,,,,Carbonate,Carbonate,Poseidon1_3490-3500,3495.0
+Poseidon-1,3745.0,3750.0,MUDST,Jamieson,Clayst (calcareous),100.0,,,,,MUDST,MUDST,Poseidon1_3745-3750,3747.5
+Poseidon-1,3800.0,3805.0,MUDST,Jamieson,Clayst (calcareous),100.0,,,,,MUDST,MUDST,Poseidon1_3800-3805,3802.5
+Poseidon-1,3880.0,3885.0,Carbonate,Jamieson,Calcilutite,100.0,,,,,Carbonate,Carbonate,Poseidon1_3880-3885,3882.5
+Poseidon-1,3942.0,3945.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Poseidon1_3942-3945,3943.5
+Poseidon-1,4020.0,4025.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Poseidon1_4020-4025,4022.5
+Poseidon-1,4110.0,4115.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Poseidon1_4110-4115,4112.5
+Poseidon-1,4215.0,4220.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Poseidon1_4215-4220,4217.5
+Poseidon-1,4305.0,4310.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Poseidon1_4305-4310,4307.5
+Poseidon-1,4410.0,4415.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Poseidon1_4410-4415,4412.5
+Poseidon-1,4515.0,4520.0,MUDST,Jamieson,Clayst,100.0,,,,,MUDST,MUDST,Poseidon1_4515-4520,4517.5
+Poseidon-1,4540.0,4545.0,MUDST,Jamieson,Clayst (silty),100.0,,,,,MUDST,MUDST,Poseidon1_4540-4545,4542.5
+Poseidon-1,4555.0,4560.0,MUDST,Jamieson,Clayst (silty),100.0,,,,,MUDST,MUDST,Poseidon1_4555-4560,4557.5
+Poseidon-1,4570.0,4575.0,MUDST,Jamieson,Clayst (silty),100.0,,,,,MUDST,MUDST,Poseidon1_4570-4575,4572.5
+Poseidon-1,4609.0,4612.0,MUDST,Montara,Siltstone,100.0,,,,,MUDST,MUDST,Poseidon1_4609-4612,4610.5
+Poseidon-1,4645.0,4648.0,MUDST,Montara,Siltstone,100.0,,,,,MUDST,MUDST,Poseidon1_4645-4648,4646.5
+Poseidon-1,4669.0,4672.0,MUDST,Montara,Siltstone,100.0,,,,,MUDST,MUDST,Poseidon1_4669-4672,4670.5
+Poseidon-1,4690.0,4693.0,MUDST,Montara,Siltstone,100.0,,,,,MUDST,MUDST,Poseidon1_4690-4693,4691.5
+Poseidon-1,4729.0,4732.0,VOLC,Plover,Volcanic,100.0,,,,,VOLC,VOLC,Poseidon1_4729-4732,4730.5
+Poseidon-1,4735.0,4738.0,VOLC,Plover,Volcanic,100.0,,,,,VOLC,VOLC,Poseidon1_4735-4738,4736.5
+Poseidon-1,4741.0,4744.0,VOLC,Plover,Volcanic,100.0,,,,,VOLC,VOLC,Poseidon1_4741-4744,4742.5
+Poseidon-1,4747.0,4750.0,VOLC,Plover,Volcanic,100.0,,,,,VOLC,VOLC,Poseidon1_4747-4750,4748.5
+Poseidon-1,4753.0,4756.0,VOLC,Plover,Volcanic,90.0,Siltstone,10.0,,,VOLC,VOLC,Poseidon1_4753-4756,4754.5
+Poseidon-1,4759.0,4762.0,VOLC,Plover,Volcanic,90.0,Siltstone,10.0,,,VOLC,VOLC,Poseidon1_4759-4762,4760.5
+Poseidon-1,4780.0,4783.0,VOLC,Plover,Volcanic,90.0,Siltstone,10.0,,,VOLC,VOLC,Poseidon1_4780-4783,4781.5
+Poseidon-1,4786.0,4789.0,VOLC,Plover,Volcanic,95.0,Siltstone,5.0,,,VOLC,VOLC,Poseidon1_4786-4789,4787.5
+Poseidon-1,4792.0,4795.0,VOLC,Plover,Volcanic,95.0,Siltstone,5.0,,,VOLC,VOLC,Poseidon1_4792-4795,4793.5
+Poseidon-1,4834.0,4837.0,MUDST,Plover,Siltstone,95.0,Sandstone,4.0,Volcanic,1.0,MUDST,MUDST,Poseidon1_4834-4837,4835.5
+Poseidon-1,4846.0,4849.0,MUDST,Plover,Siltstone,95.0,Sandstone,3.0,Volcanic,2.0,MUDST,MUDST,Poseidon1_4846-4849,4847.5
+Poseidon-1,4936.0,4939.0,MUDST,Plover,Clayst,95.0,Siltstone,5.0,,,MUDST,MUDST,Poseidon1_4936-4939,4937.5
+Poseidon-1,4942.0,4945.0,MUDST,Plover,Clayst,95.0,Siltstone,5.0,,,MUDST,MUDST,Poseidon1_4942-4945,4943.5
+Poseidon-1,5026.0,5029.0,SST,Plover,Sandstone,95.0,Siltstone,5.0,,,SST,SST,Poseidon1_5026-5029,5027.5
+Poseidon-1,5029.0,5032.0,SST,Plover,Sandstone,95.0,Siltstone,5.0,,,SST,SST,Poseidon1_5029-5032,5030.5
+Poseidon-1,5050.0,5053.0,SST,Plover,Sandstone,95.0,Siltstone,5.0,,,SST,SST,Poseidon1_5050-5053,5051.5
+Poseidon-1,5056.0,5059.0,SST,Plover,Sandstone,95.0,Siltstone,5.0,,,SST,SST,Poseidon1_5056-5059,5057.5
+Dinichthys North-1,1550.0,1555.0,SST,Bassett,Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_1550-1555,1552.5
+Dinichthys North-1,1570.0,1575.0,SST,Bassett,Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_1570-1575,1572.5
+Dinichthys North-1,1590.0,1595.0,SST,Bassett,Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_1590-1595,1592.5
+Dinichthys North-1,1610.0,1605.0,SST,Bassett,Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_1610-1605,1607.5
+Dinichthys North-1,1630.0,1635.0,SST,Bassett,Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_1630-1635,1632.5
+Dinichthys North-1,1670.0,1675.0,SST,Bassett,Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_1670-1675,1672.5
+Dinichthys North-1,1690.0,1695.0,SST,Bassett,Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_1690-1695,1692.5
+Dinichthys North-1,3365.0,3367.5,MUDST,Caswell Mbr,Siltstone (arg.),100.0,,,,,MUDST,MUDST,Dinichthys-NTH1_3365-3367.5,3366.25
+Dinichthys North-1,3375.0,3377.5,MUDST,Caswell Mbr,Siltstone (arg.),100.0,,,,,MUDST,MUDST,Dinichthys-NTH1_3375-3377.5,3376.25
+Dinichthys North-1,3385.0,3387.5,MUDST,Caswell Mbr,Siltstone (arg.),100.0,,,,,MUDST,MUDST,Dinichthys-NTH1_3385-3387.5,3386.25
+Dinichthys North-1,3395.0,3397.5,MUDST,Caswell Mbr,Siltstone (arg.),100.0,,,,,MUDST,MUDST,Dinichthys-NTH1_3395-3397.5,3396.25
+Dinichthys North-1,3405.0,3407.5,MUDST,Caswell Mbr,Siltstone (arg.),100.0,,,,,MUDST,MUDST,Dinichthys-NTH1_3405-3407.5,3406.25
+Dinichthys North-1,3415.0,3417.5,MUDST,Caswell Mbr,Siltstone (arg.),100.0,,,,,MUDST,MUDST,Dinichthys-NTH1_3415-3417.5,3416.25
+Dinichthys North-1,4157.5,4160.0,SST,Brewster (Lwr),Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_4157.5-4160,4158.75
+Dinichthys North-1,4165.0,4167.5,SST,Brewster (Lwr),Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_4165-4167.5,4166.25
+Dinichthys North-1,4172.5,4175.0,SST,Brewster (Lwr),Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_4172.5-4175,4173.75
+Dinichthys North-1,4180.0,4182.5,SST,Brewster (Lwr),Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_4180-4182.5,4181.25
+Dinichthys North-1,4187.5,4190.0,SST,Brewster (Lwr),Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_4187.5-4190,4188.75
+Dinichthys North-1,4195.0,4197.5,SST,Brewster (Lwr),Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_4195-4197.5,4196.25
+Dinichthys North-1,4562.5,4565.0,SST,Plover,Sandstone,100.0,,,,,SST,SST,Dinichthys-NTH1_4562.5-4565,4563.75
+Dinichthys North-1,4567.5,4570.0,SST,Plover,Sandstone,95.0,Clayst,5.0,,,SST,SST,Dinichthys-NTH1_4567.5-4570,4568.75
+Ichthys North-1,1210.0,1220.0,SST,Grebe,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1210-1220,1215.0
+Ichthys North-1,1390.0,1400.0,SST,Johnson,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1390-1400,1395.0
+Ichthys North-1,1420.0,1430.0,SST,Johnson,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1420-1430,1425.0
+Ichthys North-1,1620.0,1630.0,SST,Johnson,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1620-1630,1625.0
+Ichthys North-1,1660.0,1670.0,SST,Johnson,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1660-1670,1665.0
+Ichthys North-1,1690.0,1700.0,SST,Johnson,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1690-1700,1695.0
+Ichthys North-1,1750.0,1760.0,SST,Johnson,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1750-1760,1755.0
+Ichthys North-1,1780.0,1790.0,SST,Johnson,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1780-1790,1785.0
+Ichthys North-1,1810.0,1820.0,SST,Johnson/Turnstone,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1810-1820,1815.0
+Ichthys North-1,1820.0,1830.0,SST,Turnstone,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1820-1830,1825.0
+Ichthys North-1,1830.0,1840.0,SST,Turnstone,Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1_1830-1840,1835.0
+Ichthys North-1,3960.0,3963.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1_3960-3963,3961.5
+Ichthys North-1,3975.0,3978.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1_3975-3978,3976.5
+Ichthys North-1,3981.0,3984.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1_3981-3984,3982.5
+Ichthys North-1,3999.0,4002.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1_3999-4002,4000.5
+Ichthys North-1,4014.0,4017.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1_4014-4017,4015.5
+Ichthys North-1,4155.0,4158.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1_4155-4158,4156.5
+Ichthys North-1,4170.0,4173.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1_4170-4173,4171.5
+Ichthys North-1 ST1,4071.0,4074.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1-ST1_4071-4074,4072.5
+Ichthys North-1 ST1,4089.0,4092.0,VOLC,Upper Vulcan,Volcanic,95.0,Sandstone,5.0,,,VOLC,VOLC,Ichthys-NTH1-ST1_4089-4092,4090.5
+Ichthys North-1 ST1,4107.0,4110.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1-ST1_4107-4110,4108.5
+Ichthys North-1 ST1,4116.0,4119.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1-ST1_4116-4119,4117.5
+Ichthys North-1 ST1,4143.0,4146.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1-ST1_4143-4146,4144.5
+Ichthys North-1 ST1,4152.0,4155.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1-ST1_4152-4155,4153.5
+Ichthys North-1 ST1,4161.0,4164.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1-ST1_4161-4164,4162.5
+Ichthys North-1 ST1,4164.0,4167.0,VOLC,Upper Vulcan,Volcanic,100.0,,,,,VOLC,VOLC,Ichthys-NTH1-ST1_4164-4167,4165.5
+Ichthys North-1 ST1,4254.0,4257.0,SST,Brewster (Lwr),Sandstone,95.0,Clayst,5.0,,,SST,SST,Ichthys-NTH1-ST1_4254-4257,4255.5
+Ichthys North-1 ST1,4257.0,4260.0,SST,Brewster (Lwr),Sandstone,95.0,Clayst,5.0,,,SST,SST,Ichthys-NTH1-ST1_4257-4260,4258.5
+Ichthys North-1 ST1,4260.0,4263.0,SST,Brewster (Lwr),Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1-ST1_4260-4263,4261.5
+Ichthys North-1 ST1,4263.0,4266.0,SST,Brewster (Lwr),Sandstone,100.0,,,,,SST,SST,Ichthys-NTH1-ST1_4263-4266,4264.5
+Ichthys North-1 ST1,4572.0,4575.0,VOLC,Plover,Volcanic,95.0,Clayst,5.0,,,VOLC,VOLC,Ichthys-NTH1-ST1_4572-4575,4573.5
